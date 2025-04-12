@@ -6,5 +6,5 @@ Este repositório contém links de publicações feitas no YouTube, LinkedIn e c
 ### 1. 💻 Primeiro Hands on AWS: 12 instâncias EC2 em São Paulo, com ASG e ALB.
 - [Confira no YouTube](https://youtu.be/snQuYvEOqa8/)
 
-### 2. 💻 Segundo Hands on AWS: WordPress com Alto Desempenho e Alta Disponibilidade. Com direito a Aurora mySQL, Réplica, Elasticache, EFS, ALB, ASG e CloudFront.
+### 2. 💻 Segundo Hands on AWS: WordPress com Alto Desempenho e Alta Disponibilidade. Com direito a CloudFormation, Aurora mySQL, Réplica, Elasticache, EFS, ALB, ASG e CloudFront.
 - [Confira no YouTube](https://youtu.be/hSKTYRnx-ZI)
