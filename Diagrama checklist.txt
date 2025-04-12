@@ -1,0 +1,10 @@
+Hands on WordPress na AWS
+
+    passo 1: configurar a rede c/ CloudFormation
+    passo 2: criar banco RDS Aurora mySQL c/ réplica
+    passo 3: criar Amazon ElastiCache p/ Memcached
+    passo 4: criar Amazon EFS
+    passo 5: criar Application Load Balancer
+    passo 6: criar modelo de execução c/ CloudFormation
+    passo 7: criar o Auto Scaling e uma política de scaling
+    passo 8: criar um CloudFront c/ CloudFormation
