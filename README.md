@@ -8,3 +8,6 @@ Este repositório contém links de publicações feitas no YouTube, LinkedIn e c
 
 ### 2. 💻 Segundo Hands on AWS: WordPress com Alto Desempenho e Alta Disponibilidade. Com direito a CloudFormation, Aurora mySQL, Réplica, Elasticache, EFS, ALB, ASG e CloudFront.
 - [Confira no YouTube](https://youtu.be/hSKTYRnx-ZI)
+
+### 1. 💻 Mentoria AWS SAA 2025: Confira meu momento de mentoria com os alunos da Escola da Nuvem em 17/05...
+- [Confira no YouTube](https://youtu.be/WGmJyROoW8U)
