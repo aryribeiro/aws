@@ -11,3 +11,6 @@ Este repositório contém links de publicações feitas no YouTube, LinkedIn e c
 
 ### 3. 💻 Mentoria AWS SAA 2025: Confira meu momento de mentoria com os alunos da Escola da Nuvem em 17/05...
 - [Confira no YouTube](https://youtu.be/WGmJyROoW8U)
+
+### 4. 💻 Simulado do exame AWS SAA 2025, comentado. Confira a gravação, com 65 questões, com os alunos da Escola da Nuvem em 30/05...
+- [Confira no YouTube](https://youtu.be/wnh2Adw1Zog)
